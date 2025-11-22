@@ -31,4 +31,3 @@ jobs:
       with:
         name: 汽修服务系统-Windows-EXE
         path: dist/汽修服务系统.exe
-# Trigger rebuild
